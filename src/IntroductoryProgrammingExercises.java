@@ -201,7 +201,7 @@ public class IntroductoryProgrammingExercises {
             if (divisible3 &&!divisible5){
                 System.out.println("Fizz");
             }
-            if (divisible5 &&!divisible3){
+            if (divisible5 &&!divisible3){  
                 System.out.println("Buzz");
             }
             if (divisible3 && divisible5){
